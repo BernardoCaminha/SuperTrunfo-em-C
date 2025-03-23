@@ -18,3 +18,6 @@ O trabalho consiste na construção de dois programas separados:
 
 * Gerador de Cartas
 * Jogo
+
+A codificação da parte "Gerador" é o trabalho de Desafio Cartas Super Trunfo
+A codificação na parte "jogo" é o trabalho de Desafio Lógica Super Trunfo
